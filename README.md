@@ -10,7 +10,7 @@ I am **Zengliwei**, a full stack developer.
 
 ![PHP](https://img.shields.io/badge/-php-gray?logo=php&style=flat-square&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-gray?logo=mysql&style=flat-square&logoColor=fff)
-![Javascript](https://img.shields.io/badge/-Javascript-gray?logo=javascript&style=flat-square&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-gray?logo=javascript&style=flat-square&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML5-gray?logo=html5&style=flat-square&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-gray?logo=css3&style=flat-square&logoColor=fff)
 ![Less](https://img.shields.io/badge/-Less-gray?logo=less&style=flat-square&logoColor=fff)
