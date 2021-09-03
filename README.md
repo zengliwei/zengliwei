@@ -1,4 +1,26 @@
-### Hi there 👋
+## Hi there 👋
+
+I am Zengliwei, a full stack developer.
+
+**I'm currently working on**
+
+![Magento](https://img.shields.io/badge/Magento-2-orange?logo=magento&style=for-the-badge)
+
+**My major skills are**
+
+![PHP](https://img.shields.io/badge/-php-gray?logo=php&style=flat-square&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-gray?logo=mysql&style=flat-square&logoColor=fff)
+![Javascript](https://img.shields.io/badge/-Javascript-gray?logo=javascript&style=flat-square&logoColor=fff)
+![HTML 5](https://img.shields.io/badge/-HTML5-gray?logo=html5&style=flat-square&logoColor=fff)
+![CSS 3](https://img.shields.io/badge/-CSS%203-gray?logo=css3&style=flat-square&logoColor=fff)
+
+**I also worked with**
+
+![Magento](https://img.shields.io/badge/-Magento-gray?logo=magento&style=flat-square&logoColor=fff)
+![Joomla](https://img.shields.io/badge/-Joomla-gray?logo=joomla&style=flat-square&logoColor=fff)
+![Wordpress](https://img.shields.io/badge/-Wordpress-gray?logo=wordpress&style=flat-square&logoColor=fff)
+![Drupal](https://img.shields.io/badge/-Drupal-gray?logo=drupal&style=flat-square&logoColor=fff)
+
 
 <!--
 **zengliwei/zengliwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +36,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'm working on
-
-![Magento](https://img.shields.io/badge/Magento-2-orange?logo=magento&style=for-the-badge)
-
-My major skills
-
-![Magento](https://img.shields.io/badge/-Magento-gray?logo=magento&style=flat-square&logoColor=fff)
-![PHP](https://img.shields.io/badge/-php-gray?logo=php&style=flat-square&logoColor=fff)
-![Javascript](https://img.shields.io/badge/-Javascript-gray?logo=javascript&style=flat-square&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-gray?logo=mysql&style=flat-square&logoColor=fff)
-![HTML 5](https://img.shields.io/badge/-HTML5-gray?logo=html5&style=flat-square&logoColor=fff)
-![CSS 3](https://img.shields.io/badge/-CSS%203-gray?logo=css3&style=flat-square&logoColor=fff)
