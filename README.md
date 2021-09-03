@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Zengliwei**, a full stack developer.
+I am **Zengliwei**, on the way to be a stack developer.
 
 **I'm currently working on**
 
