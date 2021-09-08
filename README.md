@@ -5,9 +5,9 @@ I am **Zengliwei**, on the way to be a stack developer.
 - https://zengliwei.github.io
 - https://magento2cn.github.io
 
-**I'm currently working on**
+**I'm currently working with**
 
-Projects based on ![Magento](https://img.shields.io/badge/Magento-2-orange?logo=magento&style=for-the-badge, 'Magento 2')
+![Magento](https://img.shields.io/badge/Magento-2-orange?logo=magento&style=for-the-badge, 'Magento 2')
 
 **My major skills are**
 
