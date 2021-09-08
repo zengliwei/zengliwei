@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-I am **Zengliwei**, on the way to be a stack developer.
+I am **Zengliwei**, on the way to be a full stack developer.
+
+**I'm currently working on**
 
 - https://zengliwei.github.io
 - https://magento2cn.github.io
 
-**I'm currently working with**
-
-![Magento](https://img.shields.io/badge/Magento-2-orange?logo=magento&style=for-the-badge)
-
 **My major skills are**
 
+![Magento](https://img.shields.io/badge/Magento-2-orange?logo=magento&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-php-gray?logo=php&style=flat-square&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-gray?logo=mysql&style=flat-square&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-gray?logo=javascript&style=flat-square&logoColor=fff)
