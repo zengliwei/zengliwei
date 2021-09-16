@@ -18,7 +18,7 @@ I am **Zengliwei**, on the way to be a full stack developer.
 ![CSS3](https://img.shields.io/badge/-CSS3-gray?logo=css3&style=flat-square&logoColor=fff)
 ![Less](https://img.shields.io/badge/-Less-gray?logo=less&style=flat-square&logoColor=fff)
 
-**I also worked with**
+**I also work with**
 
 ![Magento](https://img.shields.io/badge/-Magento-gray?logo=magento&style=flat-square&logoColor=fff)
 ![Joomla](https://img.shields.io/badge/-Joomla-gray?logo=joomla&style=flat-square&logoColor=fff)
