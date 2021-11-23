@@ -24,6 +24,7 @@ I am **Zengliwei**, on the way to be a full stack developer.
 ![Joomla](https://img.shields.io/badge/-Joomla-gray?logo=joomla&style=flat-square&logoColor=fff)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-gray?logo=wordpress&style=flat-square&logoColor=fff)
 ![Drupal](https://img.shields.io/badge/-Drupal-gray?logo=drupal&style=flat-square&logoColor=fff)
+![Shopify](https://img.shields.io/badge/-Shopify-gray?logo=shopify&style=flat-square&logoColor=fff)
 
 
 <!--
