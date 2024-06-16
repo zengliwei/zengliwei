@@ -10,7 +10,7 @@ I am **Zengliwei**, on the way to be a full stack developer.
 
 **My major skills are**
 
-![Magento](https://img.shields.io/badge/Magento-2-orange?logo=magento&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/-Laravel-gray?logo=laravel&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-php-gray?logo=php&style=flat-square&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-gray?logo=mysql&style=flat-square&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-gray?logo=javascript&style=flat-square&logoColor=fff)
@@ -20,7 +20,7 @@ I am **Zengliwei**, on the way to be a full stack developer.
 
 **I also work with**
 
-![Laravel](https://img.shields.io/badge/-Laravel-gray?logo=laravel&style=flat-square&logoColor=fff)
+![Magento2](https://img.shields.io/badge/Magento-2-orange?logo=magento&style=flat-square&logoColor=fff)
 ![Magento](https://img.shields.io/badge/-Magento-gray?logo=magento&style=flat-square&logoColor=fff)
 ![Joomla](https://img.shields.io/badge/-Joomla-gray?logo=joomla&style=flat-square&logoColor=fff)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-gray?logo=wordpress&style=flat-square&logoColor=fff)
